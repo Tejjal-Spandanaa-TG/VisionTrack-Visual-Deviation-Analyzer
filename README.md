@@ -36,10 +36,6 @@ yarn install  # or npm install
 yarn dev      # or npm run dev
 ```
 
-## Deploy on Vercel
-
-Just paste the prompt into **[https://v0.vercel.app](https://v0.vercel.app)**, approve the generated project, and click **Deploy**. No edits required.
-
 ##  Optional Enhancements (Future)
 
 * Real AI backend (FastAPI / TF / PyTorch)
